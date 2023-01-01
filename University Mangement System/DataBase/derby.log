@@ -1,0 +1,31 @@
+Sat May 28 03:36:08 EET 2022 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Sat May 28 03:36:38 EET 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0181-084e-74e8-ffffee161baf 
+on database directory C:\Users\Hello\Desktop\University Mangement System\DataBase\studentinfo with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Program%20Files/Java/jdk-16.0.2/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=16.0.2+7-67
+user.dir=C:\Program Files\Java\jdk-16.0.2\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Hello\Desktop\University Mangement System\DataBase
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat May 28 03:36:40 EET 2022:
+Shutting down instance a816c00e-0181-084e-74e8-ffffee161baf on database directory C:\Users\Hello\Desktop\University Mangement System\DataBase\studentinfo with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Sat May 28 03:36:40 EET 2022 Thread[DRDAConnThread_2,5,main] (DATABASE = studentinfo), (DRDAID = {2}), Database 'studentinfo' shutdown.
+----------------------------------------------------------------
+Sat May 28 03:36:46 EET 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6ede40af-0181-084e-74e8-ffffee161baf 
+on database directory C:\Users\Hello\Desktop\University Mangement System\DataBase\studentinfo with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Program%20Files/Java/jdk-16.0.2/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=16.0.2+7-67
+user.dir=C:\Program Files\Java\jdk-16.0.2\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Hello\Desktop\University Mangement System\DataBase
+Database Class Loader started - derby.database.classpath=''
